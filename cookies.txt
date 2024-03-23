@@ -1,0 +1,5 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+elpais.bo	TRUE	/	FALSE	1999999999	ElPaisBoWeb	kaa08tm6anpu1c94ogm1m225gh
+elpais.bo	TRUE	/	FALSE	1999999999	csrfToken	d7638f95937d79f17e457d340bce15a7426c6451cb493fe8e21341800d3db0b12f936680ec1b1ff69b520da082d08970f8063237bfa3473ab95c37c33ceaf90a
+

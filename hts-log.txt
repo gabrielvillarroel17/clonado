@@ -1,0 +1,17 @@
+HTTrack3.49-1+htsswf+htsjava launched on Fri, 22 Mar 2024 20:47:53 at https://elpais.bo/nacional/20230629_pagina-siete-cierra-despues-de-13-anos-intensos.html +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://elpais.bo/nacional/20230629_pagina-siete-cierra-despues-de-13-anos-intensos.html -O1 "C:\Users\villa\Desktop\Nueva carpeta\clon_tarija\Clon_tarija" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+20:48:24	Error: 	"Not Found" (404) at link https://elpais.bo/nacional/icon.png (from https://elpais.bo/nacional/20230629_pagina-siete-cierra-despues-de-13-anos-intensos.html)
+20:48:27	Error: 	"Bad Request" (400) at link https://www.googletagmanager.com/gtm.js?id= (from https://elpais.bo/nacional/20230629_pagina-siete-cierra-despues-de-13-anos-intensos.html)
+20:48:27	Error: 	"Not Found" (404) at link https://elpais.bo/nacional/GET (from https://elpais.bo/nacional/20230629_pagina-siete-cierra-despues-de-13-anos-intensos.html)
+20:48:27	Error: 	"Not Found" (404) at link https://elpais.bo/nacional/POST (from https://elpais.bo/nacional/20230629_pagina-siete-cierra-despues-de-13-anos-intensos.html)
+21:05:07	Error: 	Exit requested by shell or user
+21:05:09	Warning: 	File not added due to mirror cancel: https://elpais.bo/nacional/20240321_union-europea-en-bolivia-aclara-que-su-cooperacion-no-puede-usarse-para-comprar-armamento.html
+
+HTTrack Website Copier/3.49-1 mirror complete in 17 minutes 22 seconds : 1218 links scanned, 1213 files written (81533447 bytes overall) [60794753 bytes received at 58344 bytes/sec], 27029904 bytes transferred using HTTP compression in 323 files, ratio 19%, 39.3 requests per connection
+(5 errors, 1 warnings, 0 messages)
